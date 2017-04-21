@@ -133,6 +133,11 @@ tbody td {
   color: #fff;
 }
 
+.home-icon-width {
+  width: 280px;
+  height: 280px;
+}
+
 @media only screen and (min-width: 38em) {
 
   [type="checkbox"] + label, [type="radio"] + label, .label-inline {
